@@ -150,4 +150,9 @@ img {
         margin: 0;
         padding-bottom: 0;
     }
+    .why-us {
+        padding-top: 3rem;
+        background: #222222;
+        margin-bottom: 0;
+    }
 }
