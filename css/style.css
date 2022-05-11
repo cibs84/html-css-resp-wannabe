@@ -131,3 +131,23 @@ img {
     max-width: 1140px;
     width: 100%;
 }
+
+ /* TABLET */
+ @media screen and (max-width: 768px) {
+     
+} 
+
+/* MOBILE */
+@media screen and (max-width: 488px) {
+    .row {
+        flex-wrap: wrap;
+    }
+    .row .col {
+        width: 100%;
+        padding-bottom: 3rem;
+    }
+    .steps {
+        margin: 0;
+        padding-bottom: 0;
+    }
+}
